@@ -12,7 +12,7 @@
 
 -  I'm a Junior Software Engineer | Android Devaloper || Flutter Devalooper
 -  As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- Ask me about my experience with Java, Dart, and Kotlin, or anything related to Mobile development.
+- Ask me about my experience with Android, Kotlin , and Dart, or anything related to Mobile development.
 -  Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
