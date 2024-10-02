@@ -20,10 +20,6 @@
 <a href="https://www.linkedin.com/in/khaled-mahmoud-433416234/" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/KhaleddMahmoudd" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-<a href="#" onclick="alert('Add me on Discord: khaledmahmouad');" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" alt="Add me on Discord" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3
-
-
 
 ### 🛠 &nbsp;Tech Stack 
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
